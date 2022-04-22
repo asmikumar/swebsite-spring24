@@ -1,0 +1,3 @@
+AuthType SSLCert
+Require afsgroup system:sweboard-20-afs
+ErrorDocument 401 /__scripts/needcerts
